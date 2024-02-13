@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "payeeName": "Rishabh",
+      "product": "Bike Repair",
+      "price": 1000,
+      "setDate": "2022-04-07",
+      "id": 1
+    },
+    {
+      "payeeName": "Rishabh",
+      "product": "Movie",
+      "price": 1044,
+      "setDate": "2022-04-05",
+      "id": 2
+    },
+    {
+      "payeeName": "Chauhan",
+      "product": "Vegetables",
+      "price": 366,
+      "setDate": "2022-04-01",
+      "id": 3
+    },
+    {
+      "payeeName": "Rishabh",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-04-02",
+      "id": 4
+    },
+    {
+      "payeeName": "Chauhan",
+      "product": "Grocery",
+      "price": 192,
+      "setDate": "2022-04-03",
+      "id": 5
+    },
+    {
+      "payeeName": "Chauhan",
+      "product": "Rice Bag",
+      "price": 2000,
+      "setDate": "2022-04-05",
+      "id": 6
+    },
+    {
+      "payeeName": "Chauhan",
+      "product": "Internet Bills",
+      "price": 1200,
+      "setDate": "2022-04-06",
+      "id": 7
+    },
+    {
+      "payeeName": "Rishabh",
+      "product": "Electricity Bill",
+      "price": 724,
+      "setDate": "2022-04-04",
+      "id": 8
+    }
+  ]
+}
